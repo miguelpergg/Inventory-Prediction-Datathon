@@ -2,7 +2,7 @@
 
 **Project for Interlub X Tecnológico de Monterrey Datathon 2025**
 
-Authors: Miguel A. Perez, Santiago Gutiérrez González, Mariana León Maldonado
+Authors: Miguel A. Perez, Mariana León Maldonado, Santiago Gutiérrez González
 
 ---
 
