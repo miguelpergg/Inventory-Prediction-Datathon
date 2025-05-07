@@ -92,3 +92,6 @@ An optimization strategy was developed based on the AutoETS predictions:
 *   The developed inventory optimization strategy provides practical, data-driven recommendations for weekly order quantities, aiming to maintain a 95% service level.
 *   Implementation of this solution has the potential to significantly reduce inventory-related costs (both holding and stockout costs) and improve overall supply chain efficiency for Interlub.
 *   Visualizations (e.g. plots in `Inventory_prediction.ipynb`) demonstrate the forecasting accuracy and the dynamics of the optimization model.
+
+![image](https://github.com/user-attachments/assets/62526d33-6219-4bb6-ada6-943a1d798bbf)
+
